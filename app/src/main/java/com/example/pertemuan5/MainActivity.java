@@ -62,4 +62,4 @@ public class MainActivity extends AppCompatActivity {
             etAlamat.setText("");
             etJenkel.setText("");
         }
-    }
+}

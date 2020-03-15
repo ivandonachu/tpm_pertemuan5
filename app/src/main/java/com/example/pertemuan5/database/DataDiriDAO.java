@@ -19,4 +19,6 @@ public interface DataDiriDAO {
 
     @Delete
     void deleteData(Datadiri item);
+
+
 }

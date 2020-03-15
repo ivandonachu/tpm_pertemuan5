@@ -22,11 +22,12 @@ public class Datadiri {
     @ColumnInfo(name = "gender")
     private  char jkelamin;
 
+    @NonNull
     public int getId() {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(@NonNull int id) {
         this.id = id;
     }
 

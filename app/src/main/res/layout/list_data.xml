@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="120dp"
+    android:orientation="vertical"
+    android:id="@+id/layout">
+
+    <TextView
+        android:id="@+id/tv_namaa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="namaaa"/>
+    <TextView
+        android:id="@+id/tv_alamat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="alamat"/>
+    <TextView
+        android:id="@+id/tv_jeniskel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="jenis kelamin"
+        />
+
+</LinearLayout>
